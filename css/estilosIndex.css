@@ -1,0 +1,29 @@
+.image1 {
+    background-image: url("../images/indexImage.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.introBox{
+    width: 500px;
+    background-color: whitesmoke;
+    padding: 20px;
+    filter: opacity(0.5);
+}
+
+/* .introBox {
+    width: 500px;
+    height: 260px;
+    text-align: justify;
+    background-color: whitesmoke;
+    filter: opacity(0.5);
+    padding: 20px;
+    border: 2px solid whitesmoke;
+    margin-left: 70px;
+    position: absolute;
+    bottom: -40px;
+} */

@@ -1,0 +1,18 @@
+.footer {
+    background-image: url('../images/background geometrical white.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    margin: -7px;
+    padding: 7px
+}
+
+.footer>h4 {
+    text-align: center;
+}
+
+.footer>p {
+    text-align: right;
+    margin-right: 20px;
+    margin-bottom: 5px;
+}
